@@ -109,7 +109,7 @@ Certifique-se de ter **Python 3** instalado no seu sistema. Para rodar o program
 1. Crie um arquivo `input.txt` com o conteúdo de entrada.
 2. Execute o script da seguinte forma:
     ```
-    python desafio_a.py < input.txt
+    python ordenacao_numeros.py < input.txt
     ```
 
 3. A saída será exibida no terminal.
